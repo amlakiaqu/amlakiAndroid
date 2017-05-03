@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">أملاكي</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="username_hint">إلايميل او إسم المستخدم</string>
+    <string name="details">عرض التفاصيل</string>
+    <string name="invalid_username_or_password">ألاسم او كلمه السر خاطئه</string>
+    <string name="error">خطأ</string>
+    <string name="ok">تم</string>
+</resources>
